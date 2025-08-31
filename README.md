@@ -49,3 +49,10 @@ IV estimates yield economically coherent elasticities: payouts rise with flood s
 This work shows that credible insurance payout modeling hinges as much on assumption stewardship as on raw fit: we document misspecification, correct endogeneity with IV-2SLS, stabilize inference under heteroskedasticity, and flag spatial dependence for future modeling. Immediate next steps include adding spatial fixed effects or spatial error structures, exploring flexible semi-parametrics to capture remaining curvature without overfitting, and enriching instruments and covariates with geophysical features (elevation, floodplain class) to further isolate causal channels. The resulting toolkit is a transparent, extensible baseline for actuaries and public risk managers seeking defensible estimates rather than fragile correlations.
 
 ---
+
+## Contributors
+- Anirudh A
+- Balaji M
+- Hari Srijaa
+- Sai Krishna
+- Sankalp Davi
